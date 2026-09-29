@@ -14,10 +14,8 @@
 </div> -->
 
 - 🔭 I’m currently working on: Projects and assignments as part of my web development learning journey.
-- 🌱 I’m currently learning: Full stack web development, as well as Data Structures and Algorithms (DSA).
+- 🌱 I’m currently learning: Machine learning and Computer vision, as well as Data Structures and Algorithms (DSA).
 - 👯 I’m looking to collaborate on: Beginner-friendly web development projects and open-source contributions.
-- 🤔 I’m looking for help with: Improving my coding skills, especially in JavaScript and DSA.
-- 💬 Ask me about: Web development basics, learning resources, and competitive programming.
 - 😄 Pronouns: He/Him
 
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
